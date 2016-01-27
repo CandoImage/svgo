@@ -477,5 +477,4 @@ describe('svg2js', function() {
             });
         });
     });
-
 });
